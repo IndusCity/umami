@@ -13,7 +13,6 @@
     "node": "18.x",
     "npm": "9.x"
   },
-  "packageManager": "pnpm@8.15.5",
   "scripts": {
     "dev": "next dev",
     "dev-turbo": "next dev -p 3001 --turbopack",
